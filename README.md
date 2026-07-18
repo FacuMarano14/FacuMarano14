@@ -6,9 +6,11 @@
  
 ## 🙋 Sobre mí
  
-Técnico Universitario en Programación de la UTN. Durante la carrera armé varias aplicaciones completas — desde una app mobile con escaneo de QR y notificaciones push, hasta una red social con autenticación por roles y una PWA offline. Me gusta meterme tanto en el backend (APIs, bases de datos, autenticación) como en el frontend, y disfruto particularmente resolver problemas de lógica y arquitectura.
- 
-Ahora estoy buscando mi primera oportunidad como desarrollador para seguir aprendiendo en un equipo real.
+#### Técnico Universitario en Programación de la UTN. Durante la carrera armé varias aplicaciones completas — desde una app mobile con escaneo de QR y notificaciones push, hasta una red social con autenticación por roles y una PWA offline. Me gusta meterme tanto en el backend (APIs, bases de datos, autenticación) como en el frontend, y disfruto particularmente resolver problemas de lógica y arquitectura.
+
+#### Aprendo mejor construyendo que leyendo documentación de punta a punta: cuando encaré Ionic y Capacitor para la app del restaurante no los había usado antes, y los fui incorporando a medida que el proyecto lo pedía. También trabajé en proyectos grupales, coordinando con compañeros para dividir tareas entre frontend y backend sin pisarnos el código.
+
+#### Ahora estoy buscando mi primera oportunidad como desarrollador para seguir aprendiendo en un equipo real. 
  
 ---
  
@@ -39,7 +41,7 @@ _(+ Ionic 8 y Capacitor 8 — sin ícono disponible en skillicons.dev)_
 ### 📱 App Mobile para Gestión de Restaurante _(proyecto grupal)_
 `Ionic 8` `Angular 20` `Capacitor 8` `Supabase`
 Escaneo de QR/DNI con MLKit, funciones nativas del dispositivo (cámara, push, hápticos), chat en tiempo real y encuestas con gráficos usando Supabase Realtime.
-🔗 [Ver repositorio](https://github.com/ramirofranchino/FLR-Co-2026.git)
+🔗 [Ver repositorio](https://github.com/FacuMarano14/FLR-Co-2026.git)
  
 ### 🌐 Red Social — Full Stack
 `Angular 20` `NestJS` `MongoDB` `JWT`
@@ -49,7 +51,7 @@ API REST bajo patrón MVC con NestJS y Mongoose, autenticación por roles con JW
 ### 🛒 Sistema Web de Autoservicio Comercial _(proyecto grupal)_
 `Node.js` `Express` `MySQL`
 Servidor MVC, base de datos relacional con relaciones muchos a muchos, carrito de compras con exportación de tickets a PDF.
-🔗 [Ver repositorio](https://github.com/Luciano-F-Lopez/tpintegrador.git)
+🔗 [Ver repositorio](https://github.com/FacuMarano14/tpintegrador.git)
  
 ---
  
