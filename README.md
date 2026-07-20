@@ -48,10 +48,11 @@ Escaneo de QR/DNI con MLKit, funciones nativas del dispositivo (cámara, push, h
 API REST bajo patrón MVC con NestJS y Mongoose, autenticación por roles con JWT + Bcrypt, PWA con Service Workers para uso offline, imágenes vía Cloudinary.
 🔗 [Frontend](https://github.com/FacuMarano14/frontend-red-social.git) · [Backend](https://github.com/FacuMarano14/backend-red-social.git)
  
-### 🛒 Sistema Web de Autoservicio Comercial _(proyecto grupal)_
-`Node.js` `Express` `MySQL`
-Servidor MVC, base de datos relacional con relaciones muchos a muchos, carrito de compras con exportación de tickets a PDF.
-🔗 [Ver repositorio](https://github.com/FacuMarano14/tpintegrador.git)
+### 🎮 Sala de Juegos Interactiva
+`Angular 20` `Supabase` `RxJS`
+Angular 20 Supabase RxJS
+Plataforma de minijuegos con ranking en tiempo real, chat entre usuarios y sistema de encuestas — con autenticación y sincronización live vía Supabase Realtime.
+🔗 [Ver repositorio](https://github.com/FacuMarano14/sala-juegos.git)
  
 ---
  
